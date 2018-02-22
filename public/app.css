@@ -9,3 +9,12 @@
 .succeedornot {
   text-align: center;     
 }
+
+#nav-link {
+  color: black;
+}
+
+#lead {
+  font-weight: lighter
+}
+
